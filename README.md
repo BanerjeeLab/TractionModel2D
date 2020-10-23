@@ -14,5 +14,8 @@ Input model parameters:<br/>
 E - Young's modulus of the cell<br/>
 ν - Poisson's ratio of the cell<br/>
 h<sub>t</sub> - height of the adherent cell<br/>
-Y<sub>s</sub> - Subsrate stiffness (substrate shear modulus/substrate thickness)
+Y<sub>s</sub> - Subsrate stiffness (substrate shear modulus/substrate thickness) <br/>
+Y<sub>a</sub> - Adhesion linker stiffness<br/>
+σ - active contractile stress <br/>
+σ2 - cell line tension
 
