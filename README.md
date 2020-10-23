@@ -10,7 +10,9 @@ Model parameters are specific to each cell type and substrate properties, and mu
 
 To simulate the traction stress map, simply run the script 'pde*.m' in each directory. The script is commented in 'any_shape/pdesol_uc.m'.
 
-Model Parameters:
-
+Input model Parameters:<br/>
 E - Young's modulus of the cell<br/>
-ν - Poisson's ratio of the cell
+ν - Poisson's ratio of the cell<br/>
+ht - height of the adherent cell<br/>
+Y_s - Subsrate stiffness (substrate shear modulus/substrate thickness)
+
