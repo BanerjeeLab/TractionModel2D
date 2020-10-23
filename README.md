@@ -14,4 +14,4 @@ Model Parameters:
 
 E - Young's modulus of the cell
 
-$`\nu`$- Poisson's ratio of the cell
+ν - Poisson's ratio of the cell
