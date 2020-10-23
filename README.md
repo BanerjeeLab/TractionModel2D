@@ -12,6 +12,5 @@ To simulate the traction stress map, simply run the script 'pde*.m' in each dire
 
 Model Parameters:
 
-E - Young's modulus of the cell
-
+E - Young's modulus of the cell<br/>
 ν - Poisson's ratio of the cell
