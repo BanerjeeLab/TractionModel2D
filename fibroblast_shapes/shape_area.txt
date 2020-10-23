@@ -1,0 +1,15 @@
+	A		P          
+1	1472.5E-12	
+2	876.4E-12	235.89
+3	1338.3E-12	220.27	
+4	3679.6E-12
+5	1166.2E-12	211.77
+
+
+shape 2
+
+Line tension = kP, k=0.4E-3
+sigma_a = 2E3
+
+line tension =0
+sigma_a = 7E3
