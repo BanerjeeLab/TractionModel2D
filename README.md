@@ -11,5 +11,7 @@ Model parameters are specific to each cell type and substrate properties, and mu
 To simulate the traction stress map, simply run the script 'pde*.m' in each directory. The script is commented in 'any_shape/pdesol_uc.m'.
 
 Model Parameters:
+
 E - Young's modulus of the cell
-\nu - Poisson' ratio of the cell
+
+```math \nu ```- Poisson' ratio of the cell
